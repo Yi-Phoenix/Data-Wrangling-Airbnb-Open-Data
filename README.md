@@ -20,3 +20,4 @@ http://insideairbnb.com/get-the-data.html
 - Change the longitudes and latitudes in the merged file to the geometry by using `Point` function
 
 
+## 
