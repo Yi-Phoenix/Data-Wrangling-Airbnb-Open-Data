@@ -5,3 +5,7 @@
 
 ## Data
 http://insideairbnb.com/get-the-data.html
+ - `listings` (7891×106), contains the detailed information of the listings. Major attributes include hosts’ information, house/room location, price, availability and ratings.
+ - `reviews` (235843×6), mainly includes listing_id, guests’ information and their detailed reviews. 
+ - `calendar` (2880215×7), provides booking information for the next year, including variables: listing_id, date, available, and price.
+
