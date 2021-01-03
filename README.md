@@ -28,4 +28,4 @@ http://insideairbnb.com/get-the-data.html
 - `shaeply.geometry`
 
 ## How to run the script
- run Tang_Yi_Data_Wrangling_Airbnb.ipynb
+ run `Tang_Yi_Data_Wrangling_Airbnb.ipynb`
