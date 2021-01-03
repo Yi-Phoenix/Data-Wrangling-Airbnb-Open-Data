@@ -20,4 +20,12 @@ http://insideairbnb.com/get-the-data.html
 - Change the longitudes and latitudes in the merged file to the geometry by using `Point` function
 
 
-## 
+## Python library
+- `numpy`
+- `pandas`
+-  `wordcloud`
+- `geopandas`
+- `shaeply.geometry`
+
+## How to run the script
+ run Tang_Yi_Data_Wrangling_Airbnb.ipynb
